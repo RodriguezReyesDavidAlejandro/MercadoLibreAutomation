@@ -1,0 +1,5 @@
+tests\MercadoLibreTest.class
+pages\FiltersPage.class
+pages\SearchResultsPage.class
+pages\ProductPage.class
+pages\HomePage.class

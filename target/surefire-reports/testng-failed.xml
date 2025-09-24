@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [MercadoLibre Suite]" guice-stage="DEVELOPMENT" verbose="0">
+  <test thread-count="5" name="Pruebas MercadoLibre(failed)" verbose="0">
+    <classes>
+      <class name="tests.MercadoLibreTest">
+        <methods>
+          <include name="tearDown"/>
+          <include name="setUp"/>
+          <include name="testSearchPS5"/>
+        </methods>
+      </class> <!-- tests.MercadoLibreTest -->
+    </classes>
+  </test> <!-- Pruebas MercadoLibre(failed) -->
+</suite> <!-- Failed suite [MercadoLibre Suite] -->
