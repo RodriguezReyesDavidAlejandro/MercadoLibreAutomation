@@ -57,10 +57,13 @@ mvn clean test -DsuiteXmlFile=testng.xml
 ## Reports
 After execution, the report is generated at:
 reports/ReporteMercadoLibre_YYYYMMDD_HHmmss.html
+<img width="1280" height="761" alt="image" src="https://github.com/user-attachments/assets/316b948d-03f0-42b9-bf14-9970b8334733" />
 
 ## Includes:
 Evidence of each step.
 Screenshots in base64 (embedded in the HTML) and as .png files inside reports/screenshots.
+<img width="1150" height="150" alt="image" src="https://github.com/user-attachments/assets/b266149b-ae98-42ae-8225-2cf7990323d0" />
+
 
 ## Utilities included
 DriverFactory → Centralized WebDriver management (Chrome by default).
@@ -130,11 +133,13 @@ mvn clean test -DsuiteXmlFile=testng.xml
 ## Reportes
 Después de la ejecución, el reporte se genera en:
 reports/ReporteMercadoLibre_YYYYMMDD_HHmmss.html
+<img width="1280" height="761" alt="image" src="https://github.com/user-attachments/assets/93281908-2171-411f-8a71-454b088d6058" />
+
 
 ## Incluye:
 Evidencia de cada paso.
 Capturas de pantalla en base64 (embebidas en el HTML) y en archivos .png dentro de reports/screenshots.
-<img width="1280" height="761" alt="image" src="https://github.com/user-attachments/assets/1cd9a976-8f39-400e-a68d-d4e77b0493fc" />
+<img width="1150" height="150" alt="image" src="https://github.com/user-attachments/assets/e195c2b3-cf36-4479-9f6f-02f1ce4dab38" />
 
 ## Utilidades incluidas
 DriverFactory → Manejo centralizado del WebDriver (Chrome por defecto).
