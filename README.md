@@ -134,6 +134,7 @@ reports/ReporteMercadoLibre_YYYYMMDD_HHmmss.html
 ## Incluye:
 Evidencia de cada paso.
 Capturas de pantalla en base64 (embebidas en el HTML) y en archivos .png dentro de reports/screenshots.
+<img width="1280" height="761" alt="image" src="https://github.com/user-attachments/assets/1cd9a976-8f39-400e-a68d-d4e77b0493fc" />
 
 ## Utilidades incluidas
 DriverFactory → Manejo centralizado del WebDriver (Chrome por defecto).
